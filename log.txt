@@ -1,0 +1,17 @@
+INFO [2024-01-31T16:29:55.762309] : Se pulso boton tablero galton consola
+INFO [2024-01-31T16:30:11.283106200] : Finalizo la simulacion por consola de tablero galton
+INFO [2024-01-31T16:30:11.283106200] : Se mostro el resultado por consola
+INFO [2024-01-31T16:30:54.445029300] : Se avtivo el tablero grafico con interfaz grafica
+INFO [2024-01-31T16:31:05.625209600] : Se pulso boton tablero galton consola
+INFO [2024-01-31T16:31:19.803051200] : Finalizo la simulacion por consola de tablero galton
+INFO [2024-01-31T16:31:19.803051200] : Se mostro el resultado por consola
+INFO [2024-02-03T13:51:25.080588400] : Se avtivo el tablero grafico con interfaz grafica
+INFO [2024-02-03T13:51:49.287358900] : Se pulso boton tablero galton consola
+INFO [2024-02-03T13:52:03.181976300] : Finalizo la simulacion por consola de tablero galton
+INFO [2024-02-03T13:52:03.181976300] : Se mostro el resultado por consola
+INFO [2024-02-03T13:52:05.043243] : Se pulso boton tablero galton consola
+INFO [2024-02-03T13:52:19.092871300] : Finalizo la simulacion por consola de tablero galton
+INFO [2024-02-03T13:52:19.092871300] : Se mostro el resultado por consola
+INFO [2024-02-03T13:52:20.498374400] : Se pulso boton tablero galton consola
+INFO [2024-02-03T13:52:34.048207100] : Finalizo la simulacion por consola de tablero galton
+INFO [2024-02-03T13:52:34.048207100] : Se mostro el resultado por consola
